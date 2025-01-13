@@ -13,5 +13,6 @@ namespace OrderManagment.Application.Model
         public string Name { get; set; }
         public DateTime CreatedDate { get; set; }
         public string Nikname { get; set; }
+        public DateTime CreatedDate2 { get; set; }
     }
 }
