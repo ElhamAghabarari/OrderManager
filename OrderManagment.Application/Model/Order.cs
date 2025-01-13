@@ -12,5 +12,6 @@ namespace OrderManagment.Application.Model
         public int CustomerId {  get; set; }
         public string Name { get; set; }
         public DateTime CreatedDate { get; set; }
+        public string Nikname { get; set; }
     }
 }
